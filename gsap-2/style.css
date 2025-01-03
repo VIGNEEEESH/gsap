@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Gilroy-SemiBold;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+#page1 {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+#page2 {
+  height: 100%;
+  width: 100%;
+  background-color: lightblue;
+  font-size: 25vw;
+  text-transform: uppercase;
+}
+#page3 {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
